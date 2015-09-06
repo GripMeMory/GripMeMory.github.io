@@ -11,6 +11,7 @@ github_username:  GripMeMory
 facebook_username:  GripMeMory
 
 # Build settings
+markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 5
