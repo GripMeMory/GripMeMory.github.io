@@ -5,10 +5,10 @@ email: your-email@yourdomain.com
 author: GripMeMory
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/GripMeMory.github.io"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+url: "http://GripMeMory.github.io"
+twitter_username: GripMeMory
+github_username:  GripMeMory	
+facebook_username:  GripMeMory
 
 # Build settings
 markdown: kramdown
