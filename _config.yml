@@ -1,13 +1,14 @@
 # Site settings
-title: Clean Blog
+title: GripMeMory's Blog
 header-img: img/home-bg.jpg
 email: woshiguoxiaoran@sina.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "abc"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: GripMeMory
 github_username:  GripMeMory
 facebook_username:  GripMeMory
+gems: [jekyll-paginate] 
 
 # Build settings
 markdown: kramdown

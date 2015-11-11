@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clean Blog</title>
-    <description>Write your site description here. It will be used as your sites meta description as well!</description>
+    <title>GripMeMory&#39;s Blog</title>
+    <description>abc</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Sep 2015 09:15:56 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 09:15:56 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Wed, 11 Nov 2015 15:23:32 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 15:23:32 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Man must explore, and this is exploration at its greatest</title>
