@@ -8,7 +8,7 @@ url: "http://yourdomain.com"
 twitter_username: GripMeMory
 github_username:  GripMeMory
 facebook_username:  GripMeMory
-gems: [jekyll-paginate] 
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
