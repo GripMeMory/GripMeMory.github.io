@@ -3,10 +3,10 @@
   <channel>
     <title>GripMeMory&#39;s Blog</title>
     <description>abc</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Dec 2015 02:11:47 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 02:11:47 +0800</lastBuildDate>
+    <link>http://yourdomain.com//</link>
+    <atom:link href="http://yourdomain.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 21 Dec 2015 02:29:15 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 02:29:15 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -16,18 +16,19 @@
 &lt;h3 id=&quot;section&quot;&gt;关于抢票的一些个人看法&lt;/h3&gt;
 &lt;p&gt;最近几天上班的时候，总是在固定的时间要把手头的工作停一停，毕竟年底了，人家也要放假回家的啦，但是，鉴于公司龟速一般的网速，和12306十五渣一样的网站，真的是一张坐票都木有，虽说俺地老家离北京也不算太远吧，但哥们，您好歹给我张坐票啊？每年春节回家，我的是站着会，大包小裹的就不敢奢想了，但屁大点儿地儿，站着也不舒服啊，过道里一挤，还老有抱怨社会的，素质什么的，我就不提了，唉，那用户体验差的，要是火车有用户评价系统，哥们我差评满满的，统统一星差评，别整那些没用的，年年都这样，不能因为我长得苗条就让我站着回家吧？腿长就没理了嘛？麻麻，我也想要张坐票嘛。。。&lt;/p&gt;
 
-&lt;p&gt;12306的运行机制，我也说不好，毕竟在程序界，我也就一小白，但尼玛这百万雄师过大江的阵势，好歹也是见过哒，买个票整的和高考似的，这是要愁死宝宝的节奏嘛？这货要是靠点击量赚钱，那铁定能上时代周刊封面了，图片我都给您想好了&lt;img src=&quot;../img/sio_img1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;12306的运行机制，我也说不好，毕竟在程序界，我也就一小白，但尼玛这百万雄师过大江的阵势，好歹也是见过哒，买个票整的和高考似的，这是要愁死宝宝的节奏嘛？这货要是靠点击量赚钱，那铁定能上时代周刊封面了，图片我都给您想好了&lt;img src=&quot;image1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;票务系统能不能不要使用这种队列的形式呀？几乎是在同一个时间点，接受超过上万次的请求，对于这些请求，已经是一种超负荷的存在了，每一个请求都会被塞入一个队列中，FIFO的方式相比大家也懂，但您当您那是偷吃佛祖灯油的老鼠精的无底洞嘛？来一个就塞一个？每一个操作就是一次请求，对于上万次的请求，就需要有上万次的响应，请求与响应也会因网络状态而有所不同，对于上万个结点的请求方式，您拿了纳税人辣么多毛爷爷，您就不能想出个对策来吗？&lt;/p&gt;
 
-&lt;p&gt;根据我的推测呢，您老大概用的是这种方式来处理订单的&lt;img src=&quot;../img/sio_img2.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;根据我的推测呢，您老大概用的是这种方式来处理订单的&lt;img src=&quot;image2&quot; alt=&quot;&quot; /&gt;
 您那强大的队列在用户的体验上的效果真的很差啊，也许对于一个很短的队列来说，并算不上什么，反正CPU那个核（hu）无非就是一个放入队列，一个处理队列逻辑，但无限长的队列，您这个“CUP(CPU)”是不就不够大了，您一个B罩杯的，能满足大爷我想要的D罩杯的手感吗？还不赶紧去垫硅胶？&lt;/p&gt;
 
 &lt;p&gt;其实我暂时能想到的，并不是这种队列的形式，因为对于同一时间的上网次的请求，应该就像飞夺泸定桥的那个画面一样，一个一个过，无非就是前面的是炮灰，后面的有可能要被挤掉的情形吧？&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 11 Nov 2015 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2015/11/11/split-it-out1/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/11/11/split-it-out1/</guid>
+        <link>http://yourdomain.com//2015/11/11/split-it-out1/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2015/11/11/split-it-out1/</guid>
         
         
       </item>
@@ -59,7 +60,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -70,8 +71,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Sep 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/09/24/man-must-explore/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/24/man-must-explore/</guid>
+        <link>http://yourdomain.com//2014/09/24/man-must-explore/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/09/24/man-must-explore/</guid>
         
         
       </item>
@@ -103,7 +104,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -114,8 +115,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Sep 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/09/18/i-believe/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/18/i-believe/</guid>
+        <link>http://yourdomain.com//2014/09/18/i-believe/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/09/18/i-believe/</guid>
         
         
       </item>
@@ -147,7 +148,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -158,8 +159,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Aug 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/08/24/science-has-not-yet-mastered-prophecy/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/08/24/science-has-not-yet-mastered-prophecy/</guid>
+        <link>http://yourdomain.com//2014/08/24/science-has-not-yet-mastered-prophecy/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/08/24/science-has-not-yet-mastered-prophecy/</guid>
         
         
       </item>
@@ -191,7 +192,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -202,8 +203,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Jul 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/07/08/failure-is-not-an-option/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/07/08/failure-is-not-an-option/</guid>
+        <link>http://yourdomain.com//2014/07/08/failure-is-not-an-option/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/07/08/failure-is-not-an-option/</guid>
         
         
       </item>
@@ -235,7 +236,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -246,8 +247,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jul 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/07/01/dreams/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/07/01/dreams/</guid>
+        <link>http://yourdomain.com//2014/07/01/dreams/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/07/01/dreams/</guid>
         
         
       </item>
@@ -279,7 +280,7 @@
 &lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;//img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
 
@@ -290,8 +291,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Jun 2014 20:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/2014/06/10/dinosaurs/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/06/10/dinosaurs/</guid>
+        <link>http://yourdomain.com//2014/06/10/dinosaurs/</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/06/10/dinosaurs/</guid>
         
         
       </item>
