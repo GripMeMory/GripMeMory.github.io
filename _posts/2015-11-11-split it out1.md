@@ -19,5 +19,5 @@ header-img: "img/post-bg-08.jpg"
 
 其实我暂时能想到的，并不是这种队列的形式，因为对于同一时间的上网次的请求，应该就像飞夺泸定桥的那个画面一样，一个一个过，无非就是前面的是炮灰，后面的有可能要被挤掉的情形吧？
 
-[image1]:img/sio_img1.jpg
-[image2]:img/sio_img2.png
+[image1]:/img/sio_img1.jpg
+[image2]:/img/sio_img2.png
